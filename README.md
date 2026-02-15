@@ -5,7 +5,7 @@ This project is a contactless smart dustbin that automatically opens and closes 
 When a hand or object comes within a set distance, the lid opens automatically and closes after a delay — no touch required.
 
 ---
-
+ 
 ## 🔧 Hardware Used
 
 - Arduino UNO / Nano
